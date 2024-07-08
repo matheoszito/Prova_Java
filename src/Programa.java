@@ -8,8 +8,8 @@ import java.util.List;
 
 public class Programa {
     public static void main(String[] args) throws Exception {
-        String arquivoCSV = "C:\\Users\\autologon\\Desktop\\ProvaJava\\Prova\\alunos.csv"; //precisa mudar o caminho da pasta porque ela é diferente em cada Pc
-        String arquivoResumo = "C:\\Users\\autologon\\Desktop\\ProvaJava\\Prova\\resumo.csv"; //precisa mudar o caminho da pasta porque ela é diferente em cada Pc
+        String arquivoCSV = "C:\\Users\\Pedro\\Desktop\\Prova_Java\\alunos.csv"; //precisa mudar o caminho da pasta porque ela é diferente em cada Pc
+        String arquivoResumo = "C:\\Users\\Pedro\\Desktop\\Prova_Java\\resumo.csv"; //precisa mudar o caminho da pasta porque ela é diferente em cada Pc
         List<Aluno> listaDeAlunos = new ArrayList<>();
 
         
